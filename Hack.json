@@ -1,4 +1,1 @@
-{
-  "sock": "wss://project-hvt1.onrender.com//ws",
-  "token": "lisa123"
-}
+{ "ws": "wss://lisa-relay.onrender.com" }
